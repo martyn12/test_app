@@ -1,6 +1,10 @@
 ##Установка##
 + Скопировать репозиторий
 + В терминале в директории
++ Установить зависимости
+```
+composer install
+```
 ```
 php artisan key:generate
 ```
@@ -9,10 +13,6 @@ php artisan key:generate
 cp .env.example .env
 ```
 + Установить соединение с БД в .env
-+ Установить зависимости
-```
-composer install
-```
 + Сгенерировать симлинк
 ```
 php artisan storage:link
