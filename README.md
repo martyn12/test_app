@@ -5,12 +5,12 @@
 ```
 composer install
 ```
-```
-php artisan key:generate
-```
 + Скопировать файл env.example в .env
 ```
 cp .env.example .env
+```
+```
+php artisan key:generate
 ```
 + Установить соединение с БД в .env
 + Сгенерировать симлинк
