@@ -1,4 +1,5 @@
-##Установка##
+Тестовое задание: https://docs.google.com/document/d/1jLCOFHFUPguR0zQS-ZMV5Tj2CmmvxnJWJCPH7gTMKc8/edit
+## Установка
 + Скопировать репозиторий
 + В терминале в директории
 + Установить зависимости
